@@ -1,0 +1,18 @@
+@font-face { font-family: 'UhBeemysen';src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_five@.2.0/UhBeemysen.woff') format('woff');
+font-weight: normal; font-style: normal; 
+}
+@font-face { font-family: 'HangeulNuri-Bold'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.0/HangeulNuri-Bold.woff') format('woff'); font-weight: normal; font-style: normal; }
+
+*{
+    font-family: 'HangeulNuri-Bold';
+}
+
+.h3 {
+  font-size : 30px;
+}
+body {
+  font-size: 20px;
+  color: #212529;
+  font-family: 'HangeulNuri-Bold';
+  text-align: center;
+}
